@@ -35,7 +35,7 @@ public class Exercise1Info {
          * For ease of use this, generates a number between 1 and 3, feel free to use it:
          * int min = 1;
          * int max = 3;
-         * int randomBlock = (int) (Math.random() * (max - min + 1)) + min;
+             * int randomBlock = (int) (Math.random() * (max - min + 1)) + min;
          *
          * Estimated Time ~60+ minutes
          *
