@@ -25,9 +25,5 @@ public class DrinkingAge {
         } else {
             System.out.println("You cannot drink");
         }
-
-
-
-
     }
 }
