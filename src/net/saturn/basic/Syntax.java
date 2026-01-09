@@ -1,3 +1,5 @@
+package net.saturn.basic;
+
 public class Syntax {
     public static void main(String[] args) {
         /* JAVA BASIC SYNTAX */

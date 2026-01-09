@@ -1,12 +1,12 @@
-package practice;
+package net.saturn.practice;
 
 public class Loops {
     public static void main(String[] args) {
         // Practicing for and while loops
 
-        int i = 0;
 
-        for(i = i; i < 100; i++) {
+
+        for(int i = 0; i < 100; i++) {
             System.out.println(i);
         }
 

@@ -1,3 +1,5 @@
+package net.saturn.intermediate;
+
 public class TernaryOperator {
     public static void main(String[] args) {
      /* TERNARY OPERATORS */

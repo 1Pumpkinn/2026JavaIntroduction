@@ -1,3 +1,5 @@
+package net.saturn.basic;
+
 public class Datatypes {
     public static void main(String[] args) {
         /* DATA TYPES & VARIABLES */

@@ -1,4 +1,5 @@
-import javax.naming.ldap.PagedResultsControl;
+package net.saturn.basic;
+
 import java.util.Scanner;
 
 public class BooleanAndLogic {

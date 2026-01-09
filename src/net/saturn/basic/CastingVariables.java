@@ -1,3 +1,5 @@
+package net.saturn.basic;
+
 public class CastingVariables {
     public static void main(String[] args) {
         /* CASTING VARIABLES */

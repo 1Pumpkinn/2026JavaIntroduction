@@ -1,3 +1,5 @@
+package net.saturn.intermediate;
+
 public class ForAndWhileLoops {
     public static void main(String[] args) {
         /* LOOPS (FOR & WHILE */

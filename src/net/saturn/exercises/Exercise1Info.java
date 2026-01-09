@@ -1,4 +1,4 @@
-package exercise;
+package net.saturn.exercises;
 
 public class Exercise1Info {
     public static void main(String[] args) {
@@ -30,7 +30,7 @@ public class Exercise1Info {
          * They should mine three blocks and then the game outputs the score on how many they mined correctly!
          *
          * When the player types in their tool, make sure to do a small amount of error correction. Make sure that both
-         * lower and uppercase for the tool names are basically ignored! (Lesson: String Methods)
+         * lower and uppercase for the tool names are basically ignored! (Lesson: String net.saturn.intermediate.Methods)
          *
          * For ease of use this, generates a number between 1 and 3, feel free to use it:
          * int min = 1;

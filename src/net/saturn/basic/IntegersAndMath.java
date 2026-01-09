@@ -1,3 +1,5 @@
+package net.saturn.basic;
+
 public class IntegersAndMath {
     public static void main(String[] args) {
 

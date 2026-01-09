@@ -1,4 +1,4 @@
-package exercise;
+package net.saturn.exercises;
 
 import java.util.Scanner;
 

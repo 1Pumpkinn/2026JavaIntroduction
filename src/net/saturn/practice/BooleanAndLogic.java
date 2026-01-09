@@ -1,4 +1,4 @@
-package practice;
+package net.saturn.practice;
 
 import java.util.Scanner;
 

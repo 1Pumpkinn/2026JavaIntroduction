@@ -1,12 +1,12 @@
-import java.util.Scanner;
+package net.saturn.basic;
 
 public class Errors {
     public static void main(String[] args) {
         /* ERRORS */
         // NEVER FEAR ERRORS --> They are normal: FEEDBACK!
 
-        /* Compiler Errors (Syntax Errors) */
-        // Errors that are shown before you Program!
+        /* Compiler net.saturn.basic.Errors (net.saturn.basic.Syntax net.saturn.basic.Errors) */
+        // net.saturn.basic.Errors that are shown before you Program!
 
         // int x = 0.0; // Error: incompatible type
         // int x = 0    // Error: variable has already been defined
@@ -16,8 +16,8 @@ public class Errors {
         // int z = 0 // Error: expected ;
 
 
-        /* Runtime Errors (Exceptions) */
-        // Errors that happen during the program
+        /* Runtime net.saturn.basic.Errors (Exceptions) */
+        // net.saturn.basic.Errors that happen during the program
 
         // float y = 1 / 0; // Exception: Divide By Zero
 

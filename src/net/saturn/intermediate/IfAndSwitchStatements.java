@@ -1,3 +1,5 @@
+package net.saturn.intermediate;
+
 import java.util.Scanner;
 
 public class IfAndSwitchStatements {

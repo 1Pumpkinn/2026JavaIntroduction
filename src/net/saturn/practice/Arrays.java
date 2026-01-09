@@ -1,8 +1,8 @@
-package practice;
+package net.saturn.practice;
 
 public class Arrays {
     public static void main(String[] args) {
-        // Practicing Arrays (Understable but syntax kinda hard)
+        // Practicing net.saturn.intermediate.Arrays (Understable but syntax kinda hard)
 
         int[] numbers = new int[4];
         numbers[0] = 4;
