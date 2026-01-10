@@ -1,0 +1,20 @@
+Public:         "accessible from anywhere and changeable",
+Protected:      "accessible from sub-classes and same package : Final => it can't be changed!",
+Private:        "accessible ONLY within this class",
+
+
+Static:         "=> this variable belongs to the Dog class itself, not to (one Dog object)",
+                "All Dog objects share the SAME value)"
+                "If one Dog changes it, the value changes for all Dogs."
+
+
+
+
+
+
+
+
+
+
+
+
