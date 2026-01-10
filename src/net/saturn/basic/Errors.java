@@ -5,7 +5,7 @@ public class Errors {
         /* ERRORS */
         // NEVER FEAR ERRORS --> They are normal: FEEDBACK!
 
-        /* Compiler net.saturn.basic.Errors (net.saturn.basic.Syntax net.saturn.basic.Errors) */
+        /* Compiler net.saturn.basic.Errors (net.saturn.basic.syntax.Syntax net.saturn.basic.Errors) */
         // net.saturn.basic.Errors that are shown before you Program!
 
         // int x = 0.0; // Error: incompatible type
